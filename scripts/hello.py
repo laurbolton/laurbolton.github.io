@@ -17,6 +17,7 @@ def main():
 
     # Add your own message here!
     print("I'm interested in GIS to better understand the spatial relationships between urban development and environmental health.")
+    print('Updated in Codespaces')
 
 if __name__ == "__main__":
     main()
