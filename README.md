@@ -1,30 +1,19 @@
-**Student:** Lauren Bolton  
-Course: GIST 604B - Open Source GIS  
-Module 1: Open Source Infrastructure & Workflows  
-Assignment 1: GitHub Repository Management  
-University of Arizona  
+# Lauren Bolton – GIS Portfolio
 
-## Learning Goals
-In this assignment, I'm learning:
-- GitHub repository management and organization
-- Professional documentation with Markdown
-- Writing and running Python scripts
-- Using GitHub Codespaces as a cloud development environment
-- Practicing the Git workflow (stage → commit → push)
-- Understanding how open source projects use Issues for collaboration
+## About
+I am a graduate student in Geographic Information Systems Technology at the University of Arizona. I currently serve as a Senior Environmental Supervisor with Boston Public Schools, managing environmental health and safety programs with a focus on indoor air quality. I am particularly interested in spatial analysis and its applications to real-world environmental challenges.
 
-## Repository Purpose
-This repository demonstrates GitHub skills including:
-- Creating and organizing a professional project structure
-- Writing clear technical documentation
-- Executing Python code in GitHub Codespaces
-- Using Git for version control
-- Creating labeled Issues to model collaborative workflows
+## Projects
+Links to course projects will be added as part of this assignment.
 
-## Repository Structure
-- `docs/` - documentation
-- `scripts/` - Python scripts
-
-## Usage
-To run the hello script:  
-python scripts/hello.py
+## Skills
+- ArcGIS Pro
+- ArcGIS Online
+- QGIS
+- Python for GIS (pandas, GeoPandas, Rasterio)
+- SQL for spatial analysis (PostGIS)
+- Spatial databases (PostgreSQL/PostGIS)
+- Web mapping (Leaflet, JavaScript, HTML, CSS)
+- Data preparation of geospatial data formats (CSV, GeoJSON, shapefiles)
+- Reproducible workflows using GitHub and Codespaces
+- Basic version control with Git
